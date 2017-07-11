@@ -13,7 +13,7 @@ File Encoding         : 65001
 
 Date: 2017-07-11 15:40:04
 */
-
+sdfsdf
 
 -- ----------------------------
 -- Table structure for [dbo].[CREDIT_INFO]
